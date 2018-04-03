@@ -1,0 +1,970 @@
+Source,Target,type,id,mention,Weight,who
+1,95,Directed,0,mentioned,1,Hammonius
+1,17,Directed,1,mentioned,5,Pompey
+1,96,Directed,2,mentioned,3,Cn. Cornelius Lentulus Marcellinus
+1,18,Directed,3,mentioned,2,Crassus
+1,79,Directed,4,mentioned,1,P. Servilius Vatia Isauricus
+1,97,Directed,5,mentioned,4,Bibulus
+1,98,Directed,6,mentioned,4,Q. Hortensius
+1,99,Directed,7,mentioned,3,L. Licinius Lucullus
+1,100,Directed,8,mentioned,1,L. Afranius
+1,101,Directed,9,mentioned,3,L. Volcatius Tullus
+1,102,Directed,10,mentioned,2,P. Rutilius Lupus
+1,103,Directed,11,mentioned,1,L. Scribonius Libo
+1,104,Directed,12,mentioned,1,P. Plautius Hypsaeus
+1,105,Directed,13,inferred,4,Ptolemy XII Auletes
+1,106,Directed,14,mentioned,3,L. Caninius Gallus
+1,107,Directed,15,mentioned,4,C. Porcius Cato
+1,108,Directed,16,mentioned,1,Aulus Trebonius
+1,109,Directed,17,mentioned,1,T. Ampius
+1,3,Directed,18,mentioned,1,C. Scribonius Curio
+1,110,Directed,19,mentioned,1,Q. Selicius
+1,17,Directed,20,inferred,1,Pompey
+1,111,Directed,21,mentioned,2,Milo
+1,52,Directed,22,mentioned,1,Pollio
+1,105,Directed,23,mentioned,1,Ptolemy XII Auletes
+1,112,Directed,24,mentioned,1,Racilius
+1,113,Directed,25,mentioned,1,Clodius
+1,37,Directed,26,mentioned,2,Caesar
+1,65,Directed,27,mentioned,2,Furius Crassipes
+1,114,Directed,28,mentioned,1,Spinther's son
+1,85,Directed,29,inferred,1,Tullia
+1,115,Directed,30,mentioned,1,M. Plaetorius
+1,37,Directed,31,inferred,1,Caesar
+1,18,Directed,32,inferred,1,Crassus
+1,8,Directed,33,mentioned,1,Appius Claudius Pulcher
+1,19,Directed,34,mentioned,1,P. Vatinius
+1,116,Directed,35,mentioned,1,P. Sextius
+1,91,Directed,36,mentioned,1,Quintus
+1,117,Directed,37,mentioned,1,L. Marcius Phillipus
+1,118,Directed,38,mentioned,1,L. Vibulliua Rufus
+1,119,Directed,39,mentioned,1,Q. Metellus Numidicus
+1,120,Directed,40,mentioned,1,L. Metellus
+1,121,Directed,41,mentioned,1,M. Scaurus
+1,87,Directed,42,mentioned,1,M. Cato Uticensis
+1,122,Directed,43,mentioned,1,Aulus Gabinius
+1,123,Directed,44,mentioned,1,Menocritus
+1,124,Directed,45,mentioned,1,Q. Mucius Scaevola
+1,113,Directed,46,inferred,1,Clodius
+1,107,Directed,47,inferred,1,C. Porcius Cato
+2,1,Directed,48,mentioned,1,Spinther
+3,126,Directed,49,inferred,1,C. Scribonius Curio Burbilieus
+3,125,Directed,50,mentioned,1,Setus Villius
+3,111,Directed,51,mentioned,1,Milo
+4,17,Directed,52,mentioned,3,Pompey
+4,106,Directed,53,mentioned,1,L. Caninius Gallus
+4,127,Directed,54,inferred,1,Hirrus
+4,127,Directed,55,mentioned,1,Hirrus
+4,97,Directed,56,mentioned,1,Bibulus
+4,56,Directed,57,mentioned,2,Longinus
+4,128,Directed,58,mentioned,1,Patiscus
+4,3,Directed,59,inferred,1,C. Scribonius Curio
+4,129,Directed,60,mentioned,1,Diogenes
+4,130,Directed,61,mentioned,1,Adjatorix
+4,8,Directed,62,mentioned,2,Appius Claudius Pulcher
+4,55,Directed,63,mentioned,1,Marcus Junius Brutus
+4,43,Directed,64,mentioned,3,Dolabella
+4,37,Directed,65,mentioned,2,Caesar
+4,3,Directed,66,mentioned,2,C. Scribonius Curio
+4,131,Directed,67,inferred,1,Claudia
+4,41,Directed,68,mentioned,1,Marcus Fadius Gallus
+4,85,Directed,69,mentioned,2,Tullia
+4,57,Directed,70,mentioned,1,Marc Anthony
+4,91,Directed,71,mentioned,1,Quintus
+4,132,Directed,72,mentioned,1,Gaius Pomptinus
+4,133,Directed,73,mentioned,1,Ocella
+4,134,Directed,74,mentioned,1,D. Matrinius
+4,127,Directed,75,inferred,1,Hirrus
+4,87,Directed,76,inferred,1,M. Cato
+4,29,Directed,77,mentioned,1,Balbus
+4,98,Directed,78,mentioned,1,Q. Hortensius
+4,135,Directed,79,mentioned,1,Marcus Curtius Postumus
+4,59,Directed,80,mentioned,1,C. Oppius
+4,86,Directed,81,inferred,1,Marcus Tullius Cicero Minor
+5,136,Directed,82,mentioned,1,Ariobarzanis
+5,6,Directed,83,mentioned,1,Q. Minucius Thermus
+5,97,Directed,84,mentioned,1,Bibulus
+5,140,Directed,85,inferred,1,L. Calpurnius Bibulus
+5,86,Directed,86,inferred,1,Marcus Tullius Cicero Minor
+5,137,Directed,87,inferred,1,Quintus Tullius Cicero Minor
+5,7,Directed,88,inferred,1,C. Caelius Caldus
+6,138,Directed,89,mentioned,1,Rhodo
+6,139,Directed,90,mentioned,1,Aristo of Chios
+7,141,Directed,91,mentioned,1,father
+7,142,Directed,92,mentioned,1,grandfather
+7,143,Directed,93,mentioned,1,Lucius Caelius Caldus
+7,144,Directed,94,mentioned,1,C. Caelius Caldus (father)
+7,145,Directed,95,mentioned,1,C. Vergilius
+7,146,Directed,96,mentioned,1,Curius
+8,2,Directed,97,mentioned,1,Valerius
+8,97,Directed,98,mentioned,1,Bibulus
+8,148,Directed,99,mentioned,1,S. Sulpicius Lemonia Rufus
+8,147,Directed,100,mentioned,2,Q. Fabius Vergilianus
+8,132,Directed,101,mentioned,1,Gaius Pomptinus
+8,149,Directed,102,mentioned,4,L. Clodius
+8,150,Directed,103,mentioned,2,C. Flaccus
+8,151,Directed,104,mentioned,1,Lucius Flaccus
+8,152,Directed,105,mentioned,1,M. Octavius
+8,153,Directed,106,mentioned,1,Cn. Octavius
+8,55,Directed,107,mentioned,4,Marcus Junius Brutus
+8,17,Directed,108,mentioned,5,Pompey
+8,131,Directed,109,inferred,2,Claudia
+8,154,Directed,110,inferred,2,Cn. Pompey
+8,155,Directed,111,mentioned,1,L. Lucilius
+8,124,Directed,112,mentioned,1,Q. Mucius Scaevola
+8,156,Directed,113,mentioned,1,D. Antonius
+8,1,Directed,114,mentioned,1,Spinther
+8,109,Directed,115,mentioned,1,T. Ampius
+8,42,Directed,116,mentioned,1,M. Terentius Varro
+8,33,Directed,117,mentioned,1,Q. Lepta
+8,157,Directed,118,mentioned,1,Athenodorus Cananites
+8,158,Directed,119,mentioned,1,Sandon
+8,98,Directed,120,mentioned,1,Q. Hortensius
+8,159,Directed,121,mentioned,3,Q. Servilius
+8,91,Directed,122,mentioned,1,Quintus
+8,4,Directed,123,mentioned,1,M. Caelius Rufus
+8,111,Directed,124,mentioned,1,Milo
+8,43,Directed,125,inferred,3,Dolabella
+8,113,Directed,126,inferred,1,Clodius
+8,85,Directed,127,inferred,1,Tullia
+8,160,Directed,128,mentioned,1,D. Tullius
+8,85,Directed,129,mentioned,1,Tullia
+9,38,Directed,130,mentioned,1,Testa
+9,161,Directed,131,mentioned,1,Postumia
+9,37,Directed,132,mentioned,4,Caesar
+9,162,Directed,133,mentioned,5,Servius Sulpicius Rufus (son)
+9,10,Directed,134,mentioned,1,M. Claudius Marcellus
+9,163,Directed,135,mentioned,1,L. Calpurnius Piso Caesonius
+9,88,Directed,136,mentioned,1,C. Claudius Marcellus Minor
+9,101,Directed,137,mentioned,1,L. Volcatius Tullus
+9,164,Directed,138,mentioned,1,L. Aemilius Paullus Macedonicus
+10,17,Directed,139,mentioned,1,Pompey
+10,94,Directed,140,mentioned,2,C. Claudius Marcellus
+10,17,Directed,141,inferred,1,Pompey
+10,124,Directed,142,mentioned,1,Q. Mucius Scaevola
+12,37,Directed,143,mentioned,1,Caesar
+13,165,Directed,144,inferred,1,Publilia
+14,166,Directed,145,mentioned,1,Q. Metellus Nepos
+14,167,Directed,146,mentioned,1,Clodia
+14,168,Directed,147,mentioned,1,Mucia
+14,17,Directed,148,mentioned,1,Pompey
+14,15,Directed,149,inferred,1,C. Antonius Hybrida
+14,91,Directed,150,mentioned,1,Quintus
+14,169,Directed,151,mentioned,1,Atticus
+14,1,Directed,152,inferred,1,Spinther
+15,169,Directed,153,mentioned,1,Atticus
+16,170,Directed,154,mentioned,1,Cornelia
+16,84,Directed,155,mentioned,1,Terentia
+16,171,Directed,156,mentioned,1,Q. Fufius Calenus
+16,172,Directed,157,mentioned,1,Q. Cornelius
+16,18,Directed,158,mentioned,1,Crassus
+16,15,Directed,159,mentioned,1,C. Antonius Hybrida
+18,173,Directed,160,mentioned,1,M. Licinius Crassus Minor
+18,174,Directed,161,mentioned,1,P. Licinius Crassus
+18,175,Directed,162,inferred,1,L. Domitius Ahenobarbus
+18,8,Directed,163,inferred,1,Appius Claudius Pulcher
+18,176,Directed,164,inferred,1,Tertulla
+19,177,Directed,165,mentioned,1,Pompeia
+21,178,Directed,166,inferred,1,Titius' wife
+22,179,Directed,167,mentioned,1,Publius Sittius Minor
+22,180,Directed,168,inferred,1,Sulla
+23,17,Directed,169,inferred,1,Pompey
+24,181,Directed,170,mentioned,1,M. Mindius
+24,182,Directed,171,mentioned,1,Q. Volusius Saturninus
+24,183,Directed,172,mentioned,1,C. Camilius
+24,184,Directed,173,mentioned,1,M. Valerius Messalla Rufus
+24,33,Directed,174,mentioned,1,Q. Lepta
+24,185,Directed,175,mentioned,1,T. Marius
+24,20,Directed,176,mentioned,1,L. Lucceius
+24,17,Directed,177,mentioned,1,Pompey
+24,16,Directed,178,mentioned,1,P. Sestius
+24,186,Directed,179,mentioned,1,M. Anneius
+24,17,Directed,180,inferred,1,Pompey
+25,9,Directed,181,mentioned,2,Servius Sulpicius Rufus
+25,37,Directed,182,inferred,2,Caesar
+25,57,Directed,183,mentioned,1,Marc Anthony
+26,187,Directed,184,inferred,1,Aulus Caecina Minor
+26,17,Directed,185,mentioned,1,Pompey
+26,37,Directed,186,mentioned,2,Caesar
+26,9,Directed,187,mentioned,1,Servius Sulpicius Rufus
+26,10,Directed,188,mentioned,1,M. Claudius Marcellus
+26,56,Directed,189,mentioned,1,C. Cassius Longius
+26,55,Directed,190,mentioned,1,Marcus Junius Brutus
+26,188,Directed,191,inferred,1,Caecina of Volaterrae
+26,190,Directed,192,mentioned,1,Caecinus Largus
+26,189,Directed,193,mentioned,1,L. Cornelius Balbus
+26,59,Directed,194,mentioned,1,Gaius Oppius
+26,27,Directed,195,mentioned,1,T. Furfanius Postumus
+27,26,Directed,196,mentioned,1,Aulus Caecina
+27,188,Directed,197,inferred,1,Caecina of Volaterrae
+28,37,Directed,198,mentioned,1,Caesar
+28,169,Directed,199,mentioned,1,Atticus
+28,16,Directed,200,mentioned,1,P. Sestius
+28,191,Directed,201,mentioned,1,Postumulenus
+28,43,Directed,202,mentioned,1,Dolabella
+28,192,Directed,203,mentioned,1,Vestorius
+28,193,Directed,204,mentioned,1,Siro the Epicurean
+29,37,Directed,205,mentioned,1,Caesar
+29,194,Directed,206,mentioned,1,C. Vibius Pansa
+29,195,Directed,207,mentioned,1,Aulus Hirtius
+29,189,Directed,208,mentioned,1,L. Cornelius Balbus
+29,59,Directed,209,mentioned,1,Gaius Oppius
+29,135,Directed,210,mentioned,1,M. Curtius Postumus
+29,196,Directed,211,mentioned,1,L. Tillius Cimber
+29,197,Directed,212,mentioned,1,Eppulieia
+29,198,Directed,213,mentioned,1,Ampia
+30,37,Directed,214,mentioned,2,Caesar
+32,199,Directed,215,inferred,1,Quintus Pompeius
+33,189,Directed,216,mentioned,2,L. Cornelius Balbus
+33,17,Directed,217,mentioned,1,Pompey
+33,37,Directed,218,mentioned,2,Caesar
+33,203,Directed,219,mentioned,1,L. Junius Paciaecus
+33,184,Directed,220,mentioned,1,M. Valerius Messalla Rufus
+33,200,Directed,221,mentioned,1,Quintus Salassus
+33,201,Directed,222,mentioned,1,Publius Curtius
+33,85,Directed,223,mentioned,1,Tullia
+33,43,Directed,224,mentioned,1,Dolabella
+33,202,Directed,225,mentioned,1,Quintus Lepta Minor
+33,51,Directed,226,mentioned,1,Servius Sulpicius Galba
+33,204,Directed,227,inferred,1,Ruspina
+33,205,Directed,228,mentioned,1,P. Pompeius Macula
+33,59,Directed,229,mentioned,1,Gaius Oppius
+34,37,Directed,230,mentioned,1,Caesar
+34,13,Directed,231,mentioned,1,Cn. Plancius
+34,175,Directed,232,inferred,1,L. Domitius Ahenobarbus
+34,206,Directed,233,inferred,1,L. Cornelius Lentulus Crus
+35,207,Directed,234,inferred,1,Porcia
+35,208,Directed,235,inferred,1,Aemilia Lepida
+36,209,Directed,236,mentioned,1,Spurius Maecius Tarpa
+36,210,Directed,237,mentioned,1,Aesop
+36,17,Directed,238,mentioned,2,Pompey
+36,211,Directed,239,mentioned,1,L. Gallus Caninus
+36,212,Directed,240,mentioned,1,T. Munatius Plancus Bursa
+36,113,Directed,241,mentioned,1,Clodius
+36,111,Directed,242,inferred,1,Milo
+36,17,Directed,243,inferred,1,Pompey
+36,213,Directed,244,mentioned,1,Juba I of Numidia
+36,206,Directed,245,mentioned,1,L. Cornelius Lentulus Crus
+36,214,Directed,246,mentioned,1,C. Claudius Marcellus Maior
+36,37,Directed,247,inferred,1,Caesar
+36,103,Directed,248,mentioned,1,L. Scribonius Libo
+37,38,Directed,249,mentioned,1,C. Trebatius Testa
+37,17,Directed,250,mentioned,1,Pompey
+37,189,Directed,251,mentioned,1,L. Cornelius Balbus
+37,111,Directed,252,mentioned,1,Milo
+37,33,Directed,253,mentioned,1,Q. Lepta
+37,215,Directed,254,inferred,1,C. Rabirius Postumus
+38,37,Directed,255,mentioned,9,Caesar
+38,189,Directed,256,mentioned,5,L. Cornelius Balbus
+38,91,Directed,257,mentioned,3,Quintus
+38,216,Directed,258,mentioned,1,Vacerra
+38,217,Directed,259,mentioned,1,Manilius
+38,218,Directed,260,mentioned,2,Q. Cornelius Maximus
+38,219,Directed,261,mentioned,1,Precianus
+38,153,Directed,262,mentioned,2,Cn. Octavius
+38,216,Directed,263,inferred,1,Vacerra
+38,220,Directed,264,mentioned,1,D.Laberius
+38,221,Directed,265,mentioned,1,Valerius
+38,194,Directed,266,mentioned,1,C. Vibius Pansa
+38,222,Directed,267,mentioned,1,Selius
+38,223,Directed,268,mentioned,1,Cyrus
+38,224,Directed,269,mentioned,1,Chrysippus Vettius
+38,225,Directed,270,mentioned,1,C. Matius
+38,105,Directed,271,inferred,1,Ptolemy XII Auletes
+38,226,Directed,272,mentioned,1,M. Aemilius Philemon
+38,227,Directed,273,mentioned,1,L. Arruntius
+38,228,Directed,274,mentioned,1,Q. Caecilius Bassus
+38,229,Directed,275,mentioned,1,Sextus Fadius
+38,71,Directed,276,mentioned,1,P. Silius Nerva
+38,55,Directed,277,mentioned,1,Marcus Junius Brutus
+38,230,Directed,278,mentioned,1,Aulus Ofilius
+38,231,Directed,279,inferred,1,Turpilia
+38,124,Directed,280,mentioned,1,Q. Mucius Scaevola
+39,232,Directed,281,mentioned,1,Damasippus
+39,233,Directed,282,mentioned,1,Q. Caecilius Metellus Scipio
+39,234,Directed,283,mentioned,1,Licinia
+39,237,Directed,284,mentioned,1,L. Cassius Longinus
+39,236,Directed,285,mentioned,1,Curtius Nicas
+39,235,Directed,286,mentioned,1,Dexius
+39,85,Directed,287,mentioned,1,Tullia
+39,238,Directed,288,mentioned,1,Tigellius
+39,37,Directed,289,mentioned,1,Caesar
+39,239,Directed,290,mentioned,1,C. Licinius Macer Calvus
+39,240,Directed,291,mentioned,1,Phamea
+39,16,Directed,292,mentioned,1,P. Sestius
+39,238,Directed,293,inferred,1,Tigellius
+39,37,Directed,294,inferred,1,Caesar
+39,114,Directed,295,mentioned,1,P. Cornelius Lentulus Spinther (son)
+39,241,Directed,296,mentioned,1,C. Ancius
+23,37,Directed,297,mentioned,1,Caesar
+40,37,Directed,298,inferred,2,Caesar
+40,169,Directed,299,mentioned,1,Atticus
+40,242,Directed,300,mentioned,2,Q. Fabius Maximus
+40,243,Directed,301,mentioned,1,C. Caninius Rebilius
+40,66,Directed,302,mentioned,2,Manius Acilius Glabrio
+40,9,Directed,303,mentioned,1,Servius Sulpicius Rufus
+41,16,Directed,304,mentioned,1,P. Sestius
+41,43,Directed,305,mentioned,2,Dolabella
+41,244,Directed,306,mentioned,1,Selius
+41,37,Directed,307,mentioned,1,Caesar
+41,195,Directed,308,mentioned,1,Aulus Hirtius
+41,56,Directed,309,mentioned,1,C. Cassius Longius
+42,169,Directed,310,mentioned,3,Atticus
+42,106,Directed,311,mentioned,3,L. Caninius Gallus
+42,245,Directed,312,mentioned,1,Diodotus the Stoic
+42,246,Directed,313,mentioned,1,Cotius
+42,17,Directed,314,inferred,1,Pompey
+42,37,Directed,315,inferred,2,Caesar
+42,37,Directed,316,mentioned,1,Caesar
+42,195,Directed,317,mentioned,1,Aulus Hirtius
+42,59,Directed,318,mentioned,1,C. Oppius
+42,29,Directed,319,mentioned,1,L. Cornelius Balbus
+42,247,Directed,320,mentioned,1,M. Seius
+42,248,Directed,321,mentioned,1,L. Julius Caesar V
+42,43,Directed,322,mentioned,1,Dolabella
+42,249,Directed,323,inferred,1,L. Julius Caesar IV
+43,236,Directed,324,mentioned,1,Curtius Nicas
+43,250,Directed,325,mentioned,1,Vidius
+43,212,Directed,326,mentioned,1,T. Munatius Plancus Bursa
+43,180,Directed,327,mentioned,1,Sulla
+43,37,Directed,328,mentioned,3,Caesar
+43,85,Directed,329,inferred,1,Tullia
+43,137,Directed,330,inferred,1,Quintus Tullius Cicero Minor
+43,251,Directed,331,mentioned,1,Deiotarus of Galatia
+43,252,Directed,332,mentioned,1,C. Subernius of Cales
+43,33,Directed,333,mentioned,1,Q. Lepta
+43,42,Directed,334,mentioned,1,Varro
+43,100,Directed,335,mentioned,1,L. Afranius
+43,253,Directed,336,mentioned,1,M. Planius Heres
+43,17,Directed,337,mentioned,1,Pompey
+43,254,Directed,338,mentioned,1,T. Quintus Scapula
+43,249,Directed,339,mentioned,1,L. Julius Caesar IV
+43,55,Directed,340,mentioned,1,Marcus Junius Brutus
+43,255,Directed,341,inferred,1,Hierophilus
+43,57,Directed,342,inferred,1,Marc Anthony
+44,257,Directed,343,mentioned,1,Q. Granius
+44,256,Directed,344,mentioned,2,L. Licinius Crassus
+44,258,Directed,345,mentioned,1,Q. Lutatius Catulus
+44,180,Directed,346,mentioned,1,Sulla
+44,71,Directed,347,mentioned,1,P. Silius Nerva
+44,37,Directed,348,mentioned,1,Caesar
+44,43,Directed,349,mentioned,1,Dolabella
+44,195,Directed,350,mentioned,3,Aulus Hirtius
+44,240,Directed,351,mentioned,1,Phamea
+44,110,Directed,352,mentioned,1,Q. Selicius
+44,259,Directed,353,mentioned,1,Servius Claudius
+44,189,Directed,354,mentioned,2,L. Cornelius Balbus
+44,260,Directed,355,mentioned,1,Dionysius II of Syracuse
+44,17,Directed,356,mentioned,2,Pompey
+44,87,Directed,357,mentioned,1,M. Porcius Cato
+44,100,Directed,358,mentioned,1,L. Afranius
+44,206,Directed,359,mentioned,1,L. Cornelius Lentulus Crus
+44,233,Directed,360,mentioned,1,Q. Caecilius Metellus Pius Scipio Nasica
+44,261,Directed,361,mentioned,1,Haterius
+44,37,Directed,362,inferred,1,Caesar
+44,43,Directed,363,inferred,1,Dolabella
+44,262,Directed,364,mentioned,2,Verrius
+44,263,Directed,365,mentioned,1,Camillus
+44,264,Directed,366,mentioned,1,Rubria
+44,265,Directed,367,mentioned,1,Roscius
+1,266,Directed,368,mentioned,1,Cinna
+1,267,Directed,369,mentioned,1,Terence
+8,270,Directed,370,mentioned,1,Appius Claudius Caecus
+8,387,Directed,371,mentioned,1,Sulla
+9,271,Directed,372,mentioned,1,"Q, Fabius Maximus Cunctator"
+9,267,Directed,373,mentioned,1,M. Porcius Cato
+9,272,Directed,374,mentioned,1,C. Sulpicius Gallus
+17,273,Directed,375,mentioned,1,P. Cornelius Scipio Aemilianus Africanus Minor
+17,274,Directed,376,mentioned,1,C. Laelius
+38,275,Directed,377,mentioned,1,P. Mucius Scaevola
+38,276,Directed,378,mentioned,2,Manius Manlius
+38,277,Directed,379,mentioned,1,L. Papirius Cursor
+38,278,Directed,380,mentioned,1,Sextus Aelius Paetus Catus
+38,268,Directed,381,mentioned,1,Marcus Junius Brutus Maior
+39,87,Directed,382,mentioned,2,Marcus Porcius Cato Uticensis
+41,279,Directed,383,mentioned,1,Lucius Accius
+1,280,Directed,384,mentioned,1,Plato
+1,281,Directed,385,mentioned,1,Apelles
+1,282,Directed,386,mentioned,1,Aristotle
+1,283,Directed,387,mentioned,1,Isocrates
+4,284,Directed,388,mentioned,1,Clitarchus
+4,285,Directed,389,mentioned,1,Darius
+4,286,Directed,390,mentioned,1,Alexander
+8,287,Directed,391,mentioned,1,Aristarchus of Samothrace
+8,288,Directed,392,mentioned,1,Homer
+20,289,Directed,393,mentioned,1,Callisthenes
+20,290,Directed,394,mentioned,1,Timaeus
+20,291,Directed,395,mentioned,1,Polybius
+20,292,Directed,396,mentioned,1,Xenophon
+20,293,Directed,397,mentioned,1,Epaminondas
+20,294,Directed,398,mentioned,1,Themistocles
+20,286,Directed,399,mentioned,1,Alexander
+20,281,Directed,400,mentioned,1,Apelles
+20,295,Directed,401,mentioned,1,Lysippus
+20,296,Directed,402,mentioned,1,Agesilaus
+20,297,Directed,403,mentioned,1,Timoleon
+20,298,Directed,404,mentioned,1,Herodotus
+20,288,Directed,405,mentioned,1,Homer
+20,299,Directed,406,mentioned,1,Naevius
+26,300,Directed,407,mentioned,1,Amphiaraus
+38,282,Directed,408,mentioned,1,Aristotle
+38,301,Directed,409,mentioned,1,Nicon
+39,302,Directed,410,mentioned,1,Cipius Pararchenchon
+39,303,Directed,411,mentioned,1,Hipponax of Ephesus
+39,304,Directed,412,mentioned,1,Epicurus
+42,305,Directed,413,mentioned,1,Chrysippus of Soli
+42,306,Directed,414,mentioned,1,Diodorus Cronus
+42,307,Directed,415,mentioned,1,Antiochus of Ascalon
+42,308,Directed,416,mentioned,1,Philo of Larissa
+44,309,Directed,417,mentioned,1,C. Lucilius
+44,310,Directed,418,mentioned,1,C. Laelius Sapiens
+44,311,Directed,419,mentioned,1,Plautus
+44,279,Directed,420,mentioned,1,Lucius Accius
+44,304,Directed,421,mentioned,1,Epicurus
+44,312,Directed,422,mentioned,1,Quintus Trabea
+44,313,Directed,423,mentioned,1,L. Papirius Mugillanus
+44,314,Directed,424,mentioned,1,L. Sempronius Atratinus
+44,315,Directed,425,mentioned,1,L. Papirius Crassus
+44,316,Directed,426,mentioned,1,C. Duilius
+44,317,Directed,427,mentioned,1,L. Masso
+44,318,Directed,428,mentioned,1,C. Papirius Carbo
+44,319,Directed,429,mentioned,1,Brutus Damasippus
+44,320,Directed,430,mentioned,1,Cn. Papirius Carbo
+44,321,Directed,431,mentioned,1,M. Papirius Carbo
+44,322,Directed,432,mentioned,1,P. Valerius Flaccus
+44,323,Directed,433,mentioned,1,M. Antonius Orator
+44,273,Directed,434,mentioned,1,P. Cornelius Scipio Aemilianus Africanus Minor
+44,277,Directed,435,mentioned,1,L. Papirius Cursor
+44,324,Directed,436,mentioned,1,Zeno of Citium
+44,325,Directed,437,mentioned,1,L. Calpurnius Piso Frugi
+44,326,Directed,438,mentioned,2,Socrates
+44,280,Directed,439,mentioned,1,Plato
+44,327,Directed,440,mentioned,1,M. Caeparius
+44,328,Directed,441,mentioned,1,Spurinna the Haruspex
+44,329,Directed,442,mentioned,1,Rufus
+44,330,Directed,443,mentioned,1,Pyrrhus of Epirus
+44,331,Directed,444,mentioned,1,Cineas
+44,332,Directed,445,mentioned,1,Mato
+44,39,Directed,446,mentioned,1,M. Fadius Gallus
+44,333,Directed,447,mentioned,1,Q. Fadius Gallus
+44,52,Directed,448,mentioned,1,C. Asinius Pollio
+44,41,Directed,449,mentioned,1,P. Volumnius Eutrapelus
+44,169,Directed,450,mentioned,1,Atticus
+44,334,Directed,451,mentioned,1,Dion
+44,335,Directed,452,mentioned,1,Volumnia
+44,336,Directed,453,mentioned,1,Aristippus of Cyrene
+45,57,Directed,454,mentioned,5,Marc Anthony
+45,47,Directed,455,mentioned,4,C. Furnius
+45,57,Directed,456,inferred,1,Marc Anthony
+45,337,Directed,457,inferred,1,L. Munatius Plancus Maior
+45,48,Directed,458,mentioned,4,M. Aemilius Lepidus
+45,54,Directed,459,inferred,4,Decimus Junius Brutus Albinus
+45,338,Directed,460,inferred,2,Cn. Munatius Plancus
+45,195,Directed,461,inferred,1,Aulus Hirtius
+45,194,Directed,462,inferred,1,Pansa
+45,339,Directed,463,mentioned,1,M. Varisidius
+45,340,Directed,464,mentioned,1,T. Munatius
+45,341,Directed,465,mentioned,2,M. Caecilius Cornutus
+45,79,Directed,466,mentioned,2,P. Servilius Vatia Isauricus
+45,342,Directed,467,mentioned,1,P. Titius
+45,79,Directed,468,inferred,1,P. Servilius Vatia Isauricus
+45,338,Directed,469,mentioned,1,Cn. Munatius Plancus
+47,45,Directed,470,mentioned,2,L. Munatius Plancus
+47,91,Directed,471,mentioned,1,Quintus
+47,26,Directed,472,mentioned,1,Aulus Caecina
+47,344,Directed,473,mentioned,2,Calvisius
+47,54,Directed,474,mentioned,1,Decimus Junius Brutus Albinus
+49,54,Directed,475,mentioned,2,Decimus Junius Brutus Albinus
+49,57,Directed,476,mentioned,1,Marc Anthony
+49,9,Directed,477,mentioned,1,Servius Sulpicius Rufus
+49,249,Directed,478,mentioned,1,L. Julius Caesar IV
+49,345,Directed,479,mentioned,1,Augustus
+49,346,Directed,480,inferred,1,Trebonius Maior
+45,288,Directed,481,mentioned,1,Homer
+54,102,Directed,482,mentioned,5,P. Rutilius Lupus
+54,37,Directed,483,inferred,1,Caesar
+54,194,Directed,484,mentioned,1,Pansa
+54,103,Directed,485,mentioned,1,L. Scribonius Libo
+54,162,Directed,486,mentioned,1,Servius Sulpicius Rufus (son)
+54,346,Directed,487,mentioned,1,M. Seius Minor
+54,347,Directed,488,mentioned,2,Graeceius
+54,345,Directed,489,mentioned,4,Augustus
+54,348,Directed,490,mentioned,1,Polla
+54,195,Directed,491,mentioned,1,Aulus Hirtius
+54,9,Directed,492,inferred,1,Servius Sulpicius Rufus
+54,165,Directed,493,inferred,1,L. Calpurnius Piso
+54,117,Directed,494,inferred,1,L. Marcius Phillipus
+54,57,Directed,495,inferred,1,Marc Anthony
+54,57,Directed,496,mentioned,4,Marc Anthony
+54,349,Directed,497,mentioned,2,Flaccus Voluminus
+54,350,Directed,498,mentioned,1,T. Vibius
+54,45,Directed,499,mentioned,2,L. Munatius Plancus
+54,48,Directed,500,mentioned,3,Marcus Aemilius Lepidus
+54,55,Directed,501,mentioned,3,M. Junius Brutus
+54,351,Directed,502,mentioned,2,L. Aelius Lamia
+54,113,Directed,503,mentioned,1,Clodius
+54,122,Directed,504,mentioned,1,Aulus Gabinius
+54,51,Directed,505,mentioned,2,Servius Sulpicius Galba
+54,352,Directed,506,mentioned,1,Labeo Segulius
+54,354,Directed,507,mentioned,1,Appius Claudius Pulcher
+54,353,Directed,508,mentioned,1,Gaius Clodius Pulcher
+58,38,Directed,509,mentioned,1,C. Trebatius Testa
+58,37,Directed,510,mentioned,1,caesar
+58,17,Directed,511,mentioned,1,Pompey
+59,17,Directed,512,mentioned,1,Pompey
+59,37,Directed,513,mentioned,1,Caesar
+59,169,Directed,514,mentioned,1,Atticus
+56,54,Directed,515,mentioned,4,Decimus Junius Brutus Albinus
+56,55,Directed,516,mentioned,7,M. Junius Brutus
+56,43,Directed,517,mentioned,5,Dolabella
+56,37,Directed,518,inferred,2,Caesar
+56,37,Directed,519,mentioned,4,Caesar
+56,163,Directed,520,mentioned,2,L. Calpurnius Piso Caesonius
+56,249,Directed,521,mentioned,2,L. Julius Caesar IV
+56,9,Directed,522,mentioned,2,Servius Sulpicius Rufus
+56,355,Directed,523,mentioned,1,L. Aurelius Cotta
+56,79,Directed,524,mentioned,1,P. Servilius Vatia Isauricus
+56,233,Directed,525,mentioned,1,Q. Caecilius Metullus Scipio
+56,57,Directed,526,inferred,1,Marc Anthony
+56,195,Directed,527,inferred,2,Aulus Hirtius
+56,194,Directed,528,inferred,2,Pansa
+56,237,Directed,529,inferred,1,L. Cassius Longinus
+56,48,Directed,530,inferred,1,Marcus Aemilius Lepidus
+56,89,Directed,531,inferred,1,L. Aemilius Lepidus Paullus
+56,88,Directed,532,inferred,1,C. Claudius Marcellus Minor
+56,15,Directed,533,inferred,1,C. Antonius Hybrida
+56,184,Directed,534,inferred,1,M. Valerius Messalla Rufus
+56,356,Directed,535,inferred,1,Cn. Domitius Calvinus
+56,171,Directed,536,inferred,1,Q. Fufius Calenus
+56,243,Directed,537,inferred,1,C. Caninius Rebilius
+56,357,Directed,538,mentioned,1,Titus Cannutius
+56,57,Directed,539,mentioned,4,Marc Anthony
+56,358,Directed,540,mentioned,1,Lucius Marcius Philippus
+56,195,Directed,541,mentioned,1,Aulus Hirtius
+56,194,Directed,542,mentioned,3,Pansa
+56,345,Directed,543,mentioned,1,Augustus
+56,359,Directed,544,mentioned,1,C. Titius Strabo
+56,360,Directed,545,mentioned,1,M. Servilius
+56,361,Directed,546,inferred,1,Servilia
+56,362,Directed,547,inferred,1,Cassius' mother
+56,237,Directed,548,inferred,1,L. Cassius Longinus
+56,48,Directed,549,mentioned,3,Marcus Aemilius Lepidus
+56,45,Directed,550,mentioned,1,L. Munatius Plancus
+60,37,Directed,551,mentioned,3,Caesar
+60,228,Directed,552,mentioned,1,Bassus
+60,212,Directed,553,mentioned,1,T. Munatius Plancus Bursa
+60,220,Directed,554,mentioned,1,D. Laberius
+60,363,Directed,555,mentioned,1,Pubilius Syrus
+60,97,Directed,556,mentioned,1,Bibulus
+60,364,Directed,557,mentioned,1,C. Anicius
+60,57,Directed,558,mentioned,4,Marc Anthony
+60,55,Directed,559,mentioned,1,Marcus Junius Brutus
+60,56,Directed,560,mentioned,1,C. Cassius Longius
+60,49,Directed,561,mentioned,1,C. Trebonius
+60,195,Directed,562,mentioned,2,Aulus Hiritius
+60,194,Directed,563,mentioned,4,Pansa
+60,365,Directed,564,mentioned,3,C. Sempronius Rufus
+60,366,Directed,565,mentioned,2,Chaerippus
+60,54,Directed,566,mentioned,1,Decimus Junius Brutus Albinus
+60,345,Directed,567,mentioned,2,Augustus
+60,367,Directed,568,mentioned,2,Tratorius
+60,357,Directed,569,mentioned,1,Titus Cannutius
+60,368,Directed,570,mentioned,2,Attius Dionysius
+60,369,Directed,571,mentioned,1,T. Pinarius
+60,57,Directed,572,inferred,1,Marc Anthony
+60,269,Directed,573,mentioned,1,Terence
+60,370,Directed,574,mentioned,1,C. Calvisius Sabinus
+60,371,Directed,575,mentioned,1,T. Statilius Taurus
+60,372,Directed,576,mentioned,2,P. Luccius
+60,373,Directed,577,mentioned,1,Cn. Minucius
+60,374,Directed,578,mentioned,1,Q. Turius
+60,375,Directed,579,mentioned,1,Cn. Saturninus
+60,376,Directed,580,mentioned,2,Sextus Aufidius
+60,377,Directed,581,mentioned,1,C. Anneus
+60,378,Directed,582,mentioned,1,Q. Considius Gallus
+60,379,Directed,583,mentioned,1,L. Servilius Postumus
+60,380,Directed,584,mentioned,1,C. Rubellius
+60,195,Directed,585,inferred,2,Aulus Hirtius
+60,194,Directed,586,inferred,1,Pansa
+60,351,Directed,587,mentioned,1,L. Aelius Lamia
+60,122,Directed,588,mentioned,1,Aulus Gabinius
+60,381,Directed,589,mentioned,1,Venuleius
+60,382,Directed,590,mentioned,1,Latinus
+60,383,Directed,591,mentioned,1,Horatius
+61,304,Directed,592,mentioned,1,Epicurus
+61,169,Directed,593,mentioned,1,Atticus
+61,384,Directed,594,mentioned,1,Patro the Epicurean
+61,385,Directed,595,mentioned,1,Phaedrus the Epicuream
+61,308,Directed,596,mentioned,1,Philo of Larissa
+61,48,Directed,597,mentioned,1,Marcus Aemilius Lepidus
+61,386,Directed,598,mentioned,1,Aulus Fufius
+62,37,Directed,599,mentioned,2,Caesar
+62,387,Directed,600,mentioned,2,Lucius Cornelius Sulla Felix
+62,388,Directed,601,mentioned,2,Q. Valerius Soranus
+62,389,Directed,602,mentioned,1,C. Curtius
+62,390,Directed,603,mentioned,2,P. Cuspius
+62,391,Directed,604,mentioned,1,L. Julius Calidus
+62,392,Directed,605,mentioned,1,P. Cornelius
+63,37,Directed,606,mentioned,1,Caesar
+64,393,Directed,607,mentioned,1,C. Albinius
+64,16,Directed,608,mentioned,1,P. Sestius
+64,394,Directed,609,mentioned,1,L. Sestius
+64,37,Directed,610,mentioned,1,Caesar
+64,395,Directed,611,mentioned,1,M. Laberius
+64,387,Directed,612,mentioned,1,Sulla
+64,396,Directed,613,mentioned,1,Aulus Plautius
+65,397,Directed,614,mentioned,1,P. Rupilius
+65,398,Directed,615,mentioned,1,Cn. Pupius
+55,37,Directed,616,mentioned,1,Caesar
+55,399,Directed,617,mentioned,1,Varro Gibba
+55,86,Directed,618,inferred,1,Marcus Tullius Cicero Minor
+55,137,Directed,619,inferred,1,Quintus Tullius Cicero Minor
+55,400,Directed,620,mentioned,1,Q. Fufidus
+55,401,Directed,621,mentioned,1,M. Faucius
+55,402,Directed,622,mentioned,1,Q. Mamercus
+55,403,Directed,623,mentioned,2,Q. Fufidius Minor
+55,404,Directed,624,mentioned,1,M. Faucius Minor
+55,405,Directed,625,mentioned,1,Q. Mamercus Minor
+55,406,Directed,626,mentioned,2,M. Caesius
+55,407,Directed,627,mentioned,1,L. Castronius Paetus
+55,408,Directed,628,mentioned,1,L. Titius Strabo
+55,392,Directed,629,mentioned,1,P. Cornelius
+55,101,Directed,630,mentioned,1,L. Volcatius Tullus
+37,288,Directed,631,mentioned,1,Homer
+37,409,Directed,632,mentioned,1,Euripides
+37,410,Directed,633,mentioned,1,Praecilius
+37,174,Directed,634,mentioned,1,P. Licinius Crassus
+37,245,Directed,635,mentioned,1,Diodotus the Stoic
+9,40,Directed,636,mentioned,1,Manius Curius
+9,169,Directed,637,mentioned,3,Atticus
+9,411,Directed,638,mentioned,2,Lyso of Patrae
+9,412,Directed,639,mentioned,1,C. Maenius Gemellus
+9,413,Directed,640,mentioned,1,Asclapo 
+9,414,Directed,641,mentioned,2,M. Aemilius Avianius
+9,415,Directed,642,mentioned,1,T. Manlius
+9,416,Directed,643,mentioned,1,A. Terentius Varro Murena
+9,417,Directed,644,mentioned,1,L. Cossinius
+9,418,Directed,645,mentioned,1,Hegesaretus
+9,24,Directed,646,mentioned,2,L. Mescinius Rufus
+9,181,Directed,647,mentioned,2,M. Minidus
+9,48,Directed,648,mentioned,1,M. Aemilius Lepidus
+9,419,Directed,649,mentioned,1,Oppia
+9,420,Directed,650,mentioned,1,Philippus
+45,17,Directed,651,mentioned,1,Pompey
+45,37,Directed,652,mentioned,1,Caesar
+45,88,Directed,653,mentioned,1,C. Claudius Marcellus Minor
+45,89,Directed,654,mentioned,1,L. Aemilius Lepidus Paullus
+45,396,Directed,655,mentioned,1,Aulus Plautius
+45,421,Directed,656,mentioned,1,C. Aetius Capito
+45,422,Directed,657,mentioned,1,T. Antistius
+66,423,Directed,658,mentioned,1,L. Manlius Sosis
+66,424,Directed,659,mentioned,1,C. Flavius
+66,425,Directed,660,mentioned,1,L. Flavius
+66,426,Directed,661,mentioned,1,C. Calpurnius Piso Frugi
+66,427,Directed,662,mentioned,1,M. Clodius Archagathus
+66,428,Directed,663,mentioned,1,C. Clodius Philo
+66,429,Directed,664,mentioned,1,Cn. Otacilius Naso
+66,430,Directed,665,mentioned,1,Lyso of Lilybaeum
+66,431,Directed,666,mentioned,1,C. Avianius Philoxenus
+66,432,Directed,667,mentioned,1,C. Avianius Flaccus
+66,37,Directed,668,mentioned,1,Caesar
+66,43,Directed,669,mentioned,1,Dolabella
+66,433,Directed,670,mentioned,1,Demetrius Megas
+66,434,Directed,671,mentioned,1,Hippias of Calacte
+66,435,Directed,672,mentioned,1,Philoxenus of Calacte
+66,436,Directed,673,mentioned,1,L. Bruttius
+66,437,Directed,674,mentioned,1,M. Titurnius Rufus
+67,438,Directed,675,mentioned,1,Lucius Aurelius Minor
+67,439,Directed,676,mentioned,1,Lucius Aurelius
+67,440,Directed,677,mentioned,1,Gaius Aurelius
+68,17,Directed,678,mentioned,2,Pompey
+68,20,Directed,679,mentioned,2,L. Lucceius
+69,441,Directed,680,mentioned,2,Lucius Oppius
+69,442,Directed,681,mentioned,1,Marcus Oppius
+69,443,Directed,682,mentioned,2,L. Egnatius Rufus
+70,443,Directed,683,mentioned,1,L. Egnatius Rufus
+71,443,Directed,684,mentioned,1,L. Egnatius Rufus
+72,1,Directed,685,mentioned,1,Spinther
+73,444,Directed,686,mentioned,1,Quintus Pompeius
+73,445,Directed,687,mentioned,1,Sextus Pompeius
+66,40,Directed,688,mentioned,1,Manius Curius
+74,446,Directed,689,mentioned,1,P. Messenius
+75,447,Directed,690,mentioned,1,Aulus Licinius Aristoteles
+75,37,Directed,691,mentioned,1,Caesar
+75,17,Directed,692,inferred,1,Pompey
+75,448,Directed,693,mentioned,1,L. Genucilius Curvus
+75,449,Directed,694,mentioned,1,M. Marcilius
+75,186,Directed,695,mentioned,2,M. Anneius
+75,450,Directed,696,mentioned,1,Cluvis
+75,451,Directed,697,mentioned,1,Philotes
+75,17,Directed,698,mentioned,1,Pompey
+76,452,Directed,699,mentioned,1,L. Custidius
+77,39,Directed,700,mentioned,1,M. Fadius Gallus
+78,453,Directed,701,mentioned,1,L. Regulus
+71,454,Directed,702,mentioned,1,T. Pinnius
+71,465,Directed,703,mentioned,1,Atilius
+71,351,Directed,704,mentioned,1,L. Aelius Lamia
+71,91,Directed,705,mentioned,1,Quintus
+71,454,Directed,706,mentioned,1,M. Laenius Flaccus
+71,455,Directed,707,mentioned,1,Tiberius Claudius Nero
+71,456,Directed,708,mentioned,1,Pausanius of Alabanda
+71,457,Directed,709,mentioned,1,Strabo Servilius
+71,458,Directed,710,mentioned,1,P. Terentius Hispo
+79,26,Directed,711,mentioned,1,Aulus Caecina
+79,37,Directed,712,inferred,1,Caesar
+79,459,Directed,713,mentioned,1,Andro of Laodicae
+79,460,Directed,714,mentioned,1,Artemo of Laodicae
+79,37,Directed,715,mentioned,1,Caesar
+79,461,Directed,716,mentioned,1,P. Servilius Vatia Isauricus Maior
+79,135,Directed,717,mentioned,1,M. Curtius Postumus
+79,29,Directed,718,mentioned,1,T. Ampius Balbus
+79,463,Directed,719,mentioned,1,T. Agusius
+79,464,Directed,720,mentioned,1,Caerillia
+79,465,Directed,721,mentioned,1,C. Vennonius
+80,441,Directed,722,mentioned,2,Lucius Oppius
+80,443,Directed,723,mentioned,2,L. Egnatius Rufus
+80,466,Directed,724,mentioned,1,Antipater of Derbe
+81,432,Directed,725,mentioned,1,C. Avianius Flaccus
+81,17,Directed,726,mentioned,1,Pompey
+92,467,Directed,727,mentioned,1,Q. Hippius
+82,467,Directed,728,mentioned,1,Q. Hippius
+92,468,Directed,729,mentioned,1,C. Valgius Hippianus
+82,468,Directed,730,mentioned,1,C. Valgius Hippianus
+93,469,Directed,731,mentioned,1,M. Bolanus
+83,470,Directed,732,mentioned,1,Democritus of Sicyon
+83,432,Directed,733,mentioned,1,C. Avianius Flaccus
+83,471,Directed,734,mentioned,1,M. Avianius Flaccus
+84,1,Directed,735,mentioned,1,Spinther
+85,1,Directed,736,mentioned,1,Spinther
+86,1,Directed,737,mentioned,1,Spinther
+84,17,Directed,738,mentioned,2,Pompey
+85,17,Directed,739,mentioned,2,Pompey
+86,17,Directed,740,mentioned,2,Pompey
+84,37,Directed,741,mentioned,7,Caesar
+85,37,Directed,742,mentioned,2,Caesar
+86,37,Directed,743,mentioned,1,Caesar
+84,426,Directed,744,mentioned,5,C. Calpurnius Piso Frugi
+85,426,Directed,745,mentioned,5,C. Calpurnius Piso Frugi
+86,426,Directed,746,mentioned,4,C. Calpurnius Piso Frugi
+84,163,Directed,747,mentioned,1,L. Calpurnius Piso Caesonius
+85,163,Directed,748,mentioned,1,L. Calpurnius Piso Caesonius
+86,163,Directed,749,mentioned,1,L. Calpurnius Piso Caesonius
+84,13,Directed,750,mentioned,1,Cn. Plancius
+85,13,Directed,751,mentioned,1,Cn. Plancius
+86,13,Directed,752,mentioned,1,Cn. Plancius
+84,91,Directed,753,mentioned,2,Quintus
+85,91,Directed,754,mentioned,2,Quintus
+86,91,Directed,755,mentioned,1,Quintus
+84,472,Directed,756,mentioned,1,P. Valerius
+85,472,Directed,757,mentioned,1,P. Valerius
+86,472,Directed,758,mentioned,1,P. Valerius
+84,18,Directed,759,mentioned,1,Marcus Linicius Crassus
+85,18,Directed,760,mentioned,1,Marcus Linicius Crassus
+86,18,Directed,761,mentioned,1,Marcus Linicius Crassus
+84,473,Directed,762,mentioned,1,Dexippus
+85,473,Directed,763,mentioned,1,Dexippus
+86,473,Directed,764,mentioned,1,Dexippus
+84,474,Directed,765,mentioned,1,Aristocritus
+85,474,Directed,766,mentioned,1,Aristocritus
+86,474,Directed,767,mentioned,1,Aristocritus
+84,454,Directed,768,mentioned,1,M. Laenius Flaccus
+85,454,Directed,769,mentioned,1,M. Laenius Flaccus
+86,454,Directed,770,mentioned,1,M. Laenius Flaccus
+84,169,Directed,771,mentioned,4,Atticus
+85,169,Directed,772,mentioned,2,Atticus
+84,86,Directed,773,mentioned,6,Marcus Tullius Cicero Minor
+85,86,Directed,774,mentioned,4,Marcus Tullius Cicero Minor
+84,263,Directed,775,mentioned,2,Camillus
+85,263,Directed,776,mentioned,2,Camillus
+84,475,Directed,777,mentioned,1,Lucius Precius
+85,475,Directed,778,mentioned,1,Lucius Precius
+84,43,Directed,779,mentioned,3,Dolabella
+84,85,Directed,780,mentioned,5,Tullia
+84,5,Directed,781,mentioned,1,Cn. Sallustius
+84,43,Directed,782,inferred,1,Dolabella
+84,85,Directed,783,inferred,1,Tullia
+84,137,Directed,784,inferred,1,Quintus Tullius Cicero Minor
+85,137,Directed,785,inferred,1,Quintus Tullius Cicero Minor
+85,43,Directed,786,mentioned,2,Dolabella
+84,476,Directed,787,mentioned,1,T. Labienus
+85,476,Directed,788,mentioned,1,T. Labienus
+84,24,Directed,789,mentioned,1,L. Mescinius Rufus
+85,24,Directed,790,mentioned,1,L. Mescinius Rufus
+84,335,Directed,791,mentioned,1,Volumnia
+84,33,Directed,792,mentioned,1,Q. Lepta
+84,38,Directed,793,mentioned,1,C. Trebatius Testa
+46,477,Directed,794,mentioned,1,Antiochus I Theos
+46,97,Directed,795,mentioned,1,Bibulus
+46,478,Directed,796,mentioned,1,Pacorus I
+46,479,Directed,797,mentioned,1,Orodes II
+46,480,Directed,798,mentioned,1,Tarcondimotus I
+46,481,Directed,799,mentioned,1,Iamblichus I
+46,253,Directed,800,mentioned,2,Deiotarus of Galatia
+46,482,Directed,801,inferred,1,Ariobarzanes II
+46,483,Directed,802,inferred,1,Ariobarzanes I
+46,484,Directed,803,mentioned,1,Artavasdes II
+46,485,Directed,804,mentioned,1,Ariobarzanes III
+46,486,Directed,805,mentioned,1,Ariarathes X
+87,477,Directed,806,mentioned,1,Antiochus I Theos
+87,97,Directed,807,mentioned,2,Bibulus
+87,477,Directed,808,inferred,1,Antiochus I Theos
+87,186,Directed,809,mentioned,1,M. Anneius
+87,253,Directed,810,mentioned,1,Deiotarus of Galatia
+87,485,Directed,811,mentioned,1,Ariobarzanes III
+87,111,Directed,812,mentioned,1,Milo
+87,91,Directed,813,mentioned,1,Quintus
+87,487,Directed,814,mentioned,1,Athenais Philostorgos II
+87,488,Directed,815,mentioned,1,Metras
+87,489,Directed,816,mentioned,1,Athenaeus
+87,132,Directed,817,mentioned,1,C. Pomptinus
+87,490,Directed,818,mentioned,1,L. Tullius
+87,1,Directed,819,inferred,1,Spinther
+87,299,Directed,820,mentioned,1,Naevius
+88,94,Directed,821,inferred,3,C. Claudius Marcellus
+88,491,Directed,822,inferred,1,Junia
+94,88,Directed,823,mentioned,1,C. Claudius Marcellus Minor
+94,491,Directed,824,mentioned,1,Junia
+10,88,Directed,825,mentioned,1,C. Claudius Marcellus Minor
+88,10,Directed,826,inferred,1,M. Claudius Marcellus
+88,492,Directed,827,inferred,1,P. Cornelius Lentulus Marcellinus
+88,493,Directed,828,inferred,1,P. Cornelius Lentulus Marcellinus Minor
+88,494,Directed,829,inferred,1,Cn. Cornelius Lentulus Marcellinus
+56,39,Directed,830,mentioned,1,M. Fadius Gallus
+56,89,Directed,831,mentioned,1,L. Aemilius Lepidus Paullus
+56,3,Directed,832,mentioned,1,C. Scribonius Curio
+56,47,Directed,833,mentioned,1,C. Furnius
+56,495,Directed,834,inferred,1,Q. Cassius Longinus
+56,496,Directed,835,mentioned,1,Pharnaces II
+56,497,Directed,836,mentioned,1,Catius the Insubrian
+56,304,Directed,837,mentioned,1,Epicurus
+56,498,Directed,838,mentioned,1,Democritus of Thrace
+56,280,Directed,839,mentioned,1,Plato
+56,180,Directed,840,mentioned,1,P. Cornelius Sulla
+56,499,Directed,841,mentioned,1,M. Mindius Marcellus
+56,500,Directed,842,mentioned,1,Attius
+49,501,Directed,843,inferred,1,P. Ventidius Bassus
+49,239,Directed,844,mentioned,1,C. Licinius Macer Calvus
+90,86,Directed,845,mentioned,8,Marcus Tullius Cicero Minor
+90,91,Directed,846,inferred,1,Quintus
+90,91,Directed,847,mentioned,6,Quintus
+90,411,Directed,848,mentioned,3,Lyso of Patrae
+90,40,Directed,849,mentioned,4,Manius Curius
+90,24,Directed,850,mentioned,2,L. Mescinius Rufus
+90,33,Directed,851,mentioned,2,Q. Lepta
+90,413,Directed,852,inferred,2,Asclapo 
+90,137,Directed,853,mentioned,5,Quintus Tullius Cicero Minor
+90,137,Directed,854,inferred,2,Quintus Tullius Cicero Minor
+90,502,Directed,855,mentioned,1,Xenomenes
+90,84,Directed,856,mentioned,2,Terentia
+90,13,Directed,857,mentioned,1,Cn. Plancius
+90,413,Directed,858,mentioned,1,Asclapo 
+90,17,Directed,859,mentioned,3,Pompey
+90,85,Directed,860,mentioned,1,Tullia
+90,37,Directed,861,mentioned,3,Caesar
+90,57,Directed,862,mentioned,3,Marc Anthony
+90,3,Directed,863,mentioned,1,C. Scribonius Curio
+90,495,Directed,864,mentioned,1,Q. Cassius Longinus
+90,206,Directed,865,mentioned,1,L. Cornelius Lentulus Crus
+90,175,Directed,866,mentioned,1,L. Domitius Ahenobarbus
+90,503,Directed,867,mentioned,1,Considius Nonianus
+90,100,Directed,868,mentioned,1,L. Afranius
+90,416,Directed,869,mentioned,1,A. Terentius Varro Murena
+90,476,Directed,870,mentioned,1,T. Labienus
+90,43,Directed,871,mentioned,2,Dolabella
+90,504,Directed,872,mentioned,1,M. Petreius
+90,505,Directed,873,mentioned,1,M. Volusius
+90,506,Directed,874,mentioned,1,Ummius
+90,507,Directed,875,mentioned,1,Hermia
+90,390,Directed,876,mentioned,1,P. Cuspius
+90,508,Directed,877,mentioned,1,Theophrastus
+90,509,Directed,878,mentioned,1,Sophocles
+90,510,Directed,879,mentioned,1,A. Ligarius
+90,511,Directed,880,mentioned,1,Motho
+90,512,Directed,881,mentioned,1,Parhedrus
+90,513,Directed,882,mentioned,1,Helico
+90,376,Directed,883,mentioned,1,Sextus Aufidius
+90,511,Directed,884,inferred,1,Motho
+90,514,Directed,885,mentioned,1,Metrodorus
+90,87,Directed,886,mentioned,1,Marcus Porcius Cato Uticensis
+90,515,Directed,887,mentioned,1,Tertia
+90,516,Directed,888,mentioned,1,Demetrius
+90,517,Directed,889,mentioned,1,Publilius
+90,169,Directed,890,mentioned,1,Atticus
+90,79,Directed,891,mentioned,1,P. Servilius Vatia Isauricus
+90,444,Directed,892,mentioned,1,Q. Pompeius Bithynicus
+90,189,Directed,893,mentioned,2,L. Cornelius Balbus
+90,518,Directed,894,mentioned,1,Harpalus
+90,519,Directed,895,mentioned,1,Offilius
+90,520,Directed,896,mentioned,1,Aurelius
+90,521,Directed,897,mentioned,1,Flaminius Flamma
+90,345,Directed,898,mentioned,1,Augustus
+90,195,Directed,899,mentioned,1,Aulus Hirtius
+90,522,Directed,900,mentioned,1,Papia
+3,524,Directed,901,mentioned,1,Rupa
+3,525,Directed,902,mentioned,1,Thraso
+4,526,Directed,903,mentioned,1,Chrestus
+4,527,Directed,904,mentioned,1,Philo
+4,528,Directed,905,mentioned,1,Phania
+8,528,Directed,906,mentioned,3,Phania
+8,529,Directed,907,mentioned,1,Pausanias
+8,530,Directed,908,mentioned,1,Philotimus
+9,530,Directed,909,mentioned,1,Philotimus
+10,531,Directed,910,mentioned,2,Theophilus
+16,532,Directed,911,mentioned,1,Decius
+19,533,Directed,912,mentioned,1,Dionysius
+19,534,Directed,913,mentioned,1,Sura
+24,535,Directed,914,mentioned,1,M. Tullius Laurea
+28,536,Directed,915,mentioned,1,Theudas
+33,537,Directed,916,mentioned,1,Seleucus
+34,538,Directed,917,mentioned,1,Cilo
+36,539,Directed,918,mentioned,1,Protogenes
+38,540,Directed,919,mentioned,1,Rufio
+39,541,Directed,920,mentioned,1,Junius
+39,542,Directed,921,mentioned,1,C. Avianiaus Evander
+39,543,Directed,922,mentioned,1,Apella
+43,544,Directed,923,mentioned,1,Salvius
+44,545,Directed,924,mentioned,1,Zethus
+44,546,Directed,925,mentioned,1,Philerus
+47,547,Directed,926,mentioned,1,Dardanus
+60,548,Directed,927,mentioned,1,Eros Turius
+61,542,Directed,928,mentioned,1,C. Avianiaus Evander
+37,549,Directed,929,mentioned,1,Apollonius
+9,550,Directed,930,mentioned,2,Gaius Avianius Hammonius
+9,551,Directed,931,mentioned,1,L. Cossinius Anchialus
+66,552,Directed,932,mentioned,1,Hilarus
+66,553,Directed,933,mentioned,1,Antigonus
+66,554,Directed,934,mentioned,1,Demostratus
+70,555,Directed,935,mentioned,1,Anchialus
+70,556,Directed,936,mentioned,1,L. Nostius Zoilus
+78,557,Directed,937,mentioned,1,L. Livineius Trypho
+79,558,Directed,938,mentioned,1,C. Curtius Mithres
+79,559,Directed,939,mentioned,1,T. Amius Menander
+9,533,Directed,940,mentioned,1,Dionysius
+84,560,Directed,941,mentioned,1,Orpheus
+84,561,Directed,942,mentioned,1,Clodius Philetaerus
+84,562,Directed,943,mentioned,1,Sallustius
+84,563,Directed,944,mentioned,1,Pescennius
+84,564,Directed,945,mentioned,1,Sicca
+85,560,Directed,946,mentioned,1,Orpheus
+85,561,Directed,947,mentioned,1,Clodius Philetaerus
+85,562,Directed,948,mentioned,1,Sallustius
+85,563,Directed,949,mentioned,1,Pescennius
+85,564,Directed,950,mentioned,1,Sicca
+86,560,Directed,951,mentioned,1,Orpheus
+86,561,Directed,952,mentioned,1,Clodius Philetaerus
+86,562,Directed,953,mentioned,1,Sallustius
+86,563,Directed,954,mentioned,1,Pescennius
+86,564,Directed,955,mentioned,1,Sicca
+84,565,Directed,956,mentioned,1,Acastus
+84,566,Directed,957,mentioned,1,Pollex
+84,530,Directed,958,mentioned,2,Philotimus
+85,566,Directed,959,mentioned,1,Pollex
+85,530,Directed,960,mentioned,1,Philotimus
+85,565,Directed,961,mentioned,1,Acastus
+49,567,Directed,962,mentioned,1,Sabinus
+90,568,Directed,963,mentioned,3,Mario
+90,565,Directed,964,mentioned,3,Acastus
+90,569,Directed,965,mentioned,2,Andricus
+90,570,Directed,966,mentioned,1,Aegypta
+90,571,Directed,967,mentioned,3,Demetrius of Sadara
+90,572,Directed,968,mentioned,1,Bellienus

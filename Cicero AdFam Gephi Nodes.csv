@@ -1,0 +1,96 @@
+id,Label,Sentiment Score,Sentiment Groups
+21,Unknown Titius,-14,Lowest
+25,Aulus Manlius Torquatus,-5,negative ten to zero
+5,Cn. Sallustius,-1,negative ten to zero
+61,C. Memmius (t.p. 66 BCE),-1,negative ten to zero
+42,M. Terentius Varro,4,zero to ten
+50,C. Appius Claudius,4,zero to ten
+33,Q. Lepta,5,zero to ten
+82,Quattuorviri,5,zero to ten
+92,Decuriones,5,zero to ten
+75,Q. Marcius Rex,6,zero to ten
+77,Curtius Peducaeanus,7,zero to ten
+23,T. Fadius,8,zero to ten
+2,L. Valerius,9,zero to ten
+40,Manius Curius,9,zero to ten
+80,Q. Marcius Philippus,9,zero to ten
+76,C. Titius Rufus,10,zero to ten
+31,L. Minucius Basilus,11,eleven to twenty
+47,C. Furnius,11,eleven to twenty
+7,C. Caelius Caldus,12,eleven to twenty
+78,C. Munatius,12,eleven to twenty
+72,C. Sextilius Rufus,13,eleven to twenty
+17,Cn. Pompeius Magnus,14,eleven to twenty
+64,M. Rutilius,15,eleven to twenty
+73,Vibius Curius,15,eleven to twenty
+32,Aulus Pompeius Bithynicus,16,eleven to twenty
+16,P. Sestius,17,eleven to twenty
+34,C. Toranius,17,eleven to twenty
+48,Marcus Aemilius Lepidus,17,eleven to twenty
+74,Publius Caesius,17,eleven to twenty
+94,C. Claudius Marcellus,17,eleven to twenty
+22,P. Sittius of Nuceria,18,eleven to twenty
+19,Publius Vatinius,19,eleven to twenty
+69,Quintus Gallus,19,eleven to twenty
+81,T. Titius,20,eleven to twenty
+15,C. Antonius Hybrida,23,twenty-one to thirty
+27,T. Furfanius Postumus,23,twenty-one to thirty
+67,Q. Ancharius,25,twenty-one to thirty
+70,Appuleius,27,twenty-one to thirty
+39,M. Fadius Gallus,28,twenty-one to thirty
+59,C. Oppius,29,twenty-one to thirty
+35,Cn. Domitius Ahenobarbus,30,twenty-one to thirty
+93,Publius Sulpicius Rufus,32,thirty-one to forty
+68,L. Culleolus,35,thirty-one to forty
+41,P. Voluminius Eutrapelus,36,thirty-one to forty
+83,Aulus Allienus,38,thirty-one to forty
+63,C. Cluvius,39,thirty-one to forty
+12,P. Nigidius Figulus,40,thirty-one to forty
+58,C. Matius Calvena,42,forty-one to fifty
+13,Cn. Plancius,43,forty-one to fifty
+14,Q. Metellus Celer,44,forty-one to fifty
+18,Marcus Licinius Crassus,46,forty-one to fifty
+36,M. Marius,49,forty-one to fifty
+65,P. Furius Crassipes,51,fifty-one to sixty
+29,Ampius Balbus,52,fifty-one to sixty
+88,C. Claudius Marcellus Minor,56,fifty-one to sixty
+30,Q. Ligarius,59,fifty-one to sixty
+20,L. Lucceius,60,fifty-one to sixty
+89,L. Aemilius Lepidus Paullus,60,fifty-one to sixty
+10,M. Claudius Marcellus,62,sixty-one to seventy
+28,Trebanius,80,seventy-one to eighty
+86,Marcus Tullius Cicero Minor,80,seventy-one to eighty
+46,COS. PR. TR. PL. Senate and The Roman People,86,eighty-one to ninety
+6,Q. Minucius Thermus,91,ninety-one to one hundred
+24,L. Mescinius Rufus,96,ninety-one to one hundred
+44,L. Papirius Paetus,98,ninety-one to one hundred
+37,C. Julius Caesar,99,ninety-one to one hundred
+79,P. Servilius Vatia Isauricus,105,one hundred and one to one hundred and ten
+26,Aulus Caecina,109,one hundred and one to one hundred and ten
+49,C. Trebonius,109,one hundred and one to one hundred and ten
+54,Decimus Junius Brutus Albinus,115,one hundred eleven to one hundred and twenty
+87,M. Porcus Cato Uticensis,115,one hundred eleven to one hundred and twenty
+43,Publius Cornelius Dolabella,118,one hundred eleven to one hundred and twenty
+3,C. Scribonius Curio,126,one hundred and twenty-one to one hundred and thirty
+71,P. Silius Nerva,138,one hundred and thirty-one to one hundred and forty
+4,M. Caelius Rufus,139,one hundred and thirty-one to one hundred and forty
+62,Q. Valerius Orca,141,one hundred and forty-one to one hundred and fifty
+38,C. Trebatius Testa,148,one hundred and forty-one to one hundred and fifty
+55,Marcus Junius Brutus,149,one hundred and forty-one to one hundred and fifty
+66,Manius Acilius Glabrio,159,one hundred and fifty-one to one hundred and sixty
+85,Tullia,182,one hundred and eighty-one to one hundred and ninety
+56, C. Cassius Longinus,184,one hundred and eighty-one to one hundred and ninety
+60,Q. Cornificius,185,one hundred and eighty-one to one hundred and ninety
+84,Terentia,290,two hundred and ninety to three hundred
+90,Tiro,307,three hundred and one to three hundred and ten
+45,L. Munatius Plancus,332,three hundred and thirty-one to three hundred and forty
+9,Servius Sulpicius Rufus,383,three hundred and eighty-one to three hundred and ninety
+8,Appius Claudius Pulcher,460,four hundred and fifty-one to four hundred and sixty
+1,P. Lentulus Spinther,470,four hundred and sixty-one to four hundred and seventy
+0,Cicero,,None
+11,M. Marcellus,,None
+51,Servius Sulpicius Galba,,None
+52,C. Asinius Pollio,,None
+53,PR. TR. PL. Senate and The Roman People,,None
+57,M. Antonius,,None
+91,Qunitus Tullius Cicero,,None
